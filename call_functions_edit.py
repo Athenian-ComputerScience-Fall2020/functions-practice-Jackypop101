@@ -14,7 +14,12 @@ def offer_food():
 def say_bye():
    print("Cheerio then.")
 
+def say_joke():
+    print("What is the name of a name with a rubber toe?    Answer: Roberto.")
 
-offer_drink()
+
 say_hi()
+offer_drink()
 offer_food()
+say_joke()
+say_bye()

@@ -5,21 +5,27 @@ def math1():
    num2 = 5
    return num1 + num2
 
+#50+5=55
+
 def math2():
    num1 = 50
    num2 = 5
    return num1 - num2
+
+#50-5=45
 
 def math3():
    num1 = 50
    num2 = 5
    return num1 * num2
 
+#50*5=150
+
 output_num = math2()
 print(output_num)
 
 '''
 Add prediction(s) here:
-
+45
 
 '''
